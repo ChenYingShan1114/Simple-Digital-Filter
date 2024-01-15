@@ -19,4 +19,6 @@ z_{high} = \frac{1}{2}(y_k-y_{k+1})
 ![Image](https://github.com/ChenYingShan1114/Simple-Digital-Filter/blob/main/filter.png)
 
 ### Reference
+A. L. Garcia, "Numerical Methods for Physics": \
+    Chapter 5 Analysis of Data \
 The header file of **Matrix.h** and **fft.h** are from "Numerical Methods for Physics Second Edition -- Alejandro L. Garcia".
